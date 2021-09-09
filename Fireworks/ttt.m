@@ -1,0 +1,6 @@
+scatter3(r_i(1,:),r_i(2,:),r_i(3,:),interpolated_temp)
+colorbar()
+xlabel("x")
+ylabel("y")
+zlabel("z")
+title("Scattering with given parameters")
