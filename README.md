@@ -1,6 +1,6 @@
 # Modelling-and-Simulation
 
-These are assorted modelling and simulation projects I've done in MATLAB. The models themselves are derived from first principles under simplifying assumptions, after which genetic strings are used to find optimal parameters in accordance with the context-specific cost function. For each project the main deliverable is the project report, available as either a PDF or iPython notebook depending on the project. I've also provided the code and raw plots for reference. If I have time I will further feactor the code.
+These are assorted modelling and simulation projects I've done in MATLAB. The models themselves are derived from first principles under simplifying assumptions, after which genetic strings are used to find optimal parameters in accordance with the context-specific cost function. For each project the main deliverable is the project report, available as either a PDF or iPython notebook depending on the project. I've also provided the code and raw plots for reference. If I have time I will further refactor the code.
 
 A brief description of each project is as follows:
 
