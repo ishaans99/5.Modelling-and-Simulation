@@ -14,6 +14,8 @@ A brief description of each project is as follows:
 
 - UAV: Model a swarm of UAV drones, tasked with mapping arbitrary targets while avoiding interspersed obstacles.
 
+Please refer to the respective folder for more information about a given project.
+
 
 
 
